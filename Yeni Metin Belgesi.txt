@@ -1,3 +1,15 @@
-Ödev
+--Ödev--
 Github nedir:
 -Sürüm kontrol sistemi olarak yazılım geliştirme progjeleri için web tabanlı bir depolama servisidir. 8 Şubat 2008 Tom Preston-Werner,Chris Wanstrath,P.J.Hyett,Scott Chacon tarafından kurulmuştur.
+
+Github ne amaçla kullanılır:
+-Geliştiricilerin, ilerlemelerini ayrıntılı olarak takip ederken ortak projelerde iş birliği yapmasına ve değişiklikler yapmasına olanak tanır.
+
+Github Yararları:
+-Açık kaynaklı projelere destek almamızı kolaylaştırır
+-Bilgiye erişim kolaylaşır
+-Çalışmalar sergilenebilir
+-Markdown imkanı sunar
+-Github güçlü bir depolama alanıdır
+-Sürümler arası değişiklikler izlenebilir 
+-Entagrasyon seçenekleri içerir.
